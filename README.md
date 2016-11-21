@@ -2,10 +2,10 @@
 
 ##Deep Learning with Hadoop
 
-Shuxian Wu
-Xun Wang
-You Li
-Zhenchi Yuan
+* Shuxian Wu
+* Xun Wang
+* You Li
+* Zhenchi Yuan
 
 ---
 
